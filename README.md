@@ -88,7 +88,7 @@ A Streamlit-powered dashboard that fetches real-time asteroid data from NASA's p
 
 ## 💪 Author
 
-- Developed with passion by [Your Name Here]
+- Developed with passion by Nethaji
 
 *Built as part of learning project for real-time API interaction, data engineering, and frontend visualization!* 🚀
 
